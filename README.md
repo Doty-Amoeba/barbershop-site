@@ -12,3 +12,4 @@
 
 Всё содержимое лежит в `site-data.js` (тексты, цены, контакты, цвета, координаты карты).
 Файлы `index.html`, `styles.css` и `app.js` менять не нужно.
+https://doty-amoeba.github.io/barbershop-site/
